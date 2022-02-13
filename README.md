@@ -34,4 +34,5 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap
 ![zeus](C:\Users\Administrator\Desktop\versionControlLab2\zeus.png)
 
 ```
+![zeus](C:\Users\Administrator\Desktop\versionControlLab2\zeus.png)
 
