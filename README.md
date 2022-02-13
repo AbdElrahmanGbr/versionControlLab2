@@ -17,7 +17,7 @@ $ git tag -n
 
 sorting with version:
 $ git tag -l --sort=-version:refname
-**_more info on : https://git-scm.com/docs/git-tag_**
+** more info on : _https://git-scm.com/docs/git-tag_ **
 ```
 How to delete tags locally and remotely?
 ```
