@@ -31,8 +31,8 @@ git push origin --delete v1.8
 How to add Images to README.md?
 ```
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().\
-![zeus](C:\Users\Administrator\Desktop\versionControlLab2\zeus.png)
+![zeus](https://user-images.githubusercontent.com/99536233/153750499-7dd46405-7bfe-44dd-99b1-b4e2d1f4ea0b.png)
 
 ```
-![zeus](C:\Users\Administrator\Desktop\versionControlLab2\zeus.png)
+![zeus](https://user-images.githubusercontent.com/99536233/153750499-7dd46405-7bfe-44dd-99b1-b4e2d1f4ea0b.png)
 
