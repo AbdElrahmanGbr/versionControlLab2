@@ -35,7 +35,9 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap
 ![zeus](https://user-images.githubusercontent.com/99536233/153750499-7dd46405-7bfe-44dd-99b1-b4e2d1f4ea0b.png)
 2- opening issue and creating a new one, drag drop the image you want to upload and copy its link
 ```
-![unknown_2022 02 13-13 22](https://user-images.githubusercontent.com/99536233/153750705-04966f05-7c5e-46e9-bb23-17567e0f2749.png)
+![image](https://user-images.githubusercontent.com/99536233/153750790-ee9dc626-dbcd-4ece-9cbf-86c03305a5aa.png)
+copy paste
 ![zeus](https://user-images.githubusercontent.com/99536233/153750499-7dd46405-7bfe-44dd-99b1-b4e2d1f4ea0b.png)
-![ullr](https://github.com/AbdElrahmanGbr/versionControlLab2/issues/4#issue-1135685298.png)
+generated from Issue
+![ullr](https://user-images.githubusercontent.com/99536233/153750640-d918c05a-035a-499f-83d4-e72e95507763.png)
 
