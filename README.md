@@ -1,3 +1,4 @@
+**Lab 2**
 How to delete branch locally and remotely?
 ```
 // delete branch locally
@@ -16,7 +17,7 @@ $ git tag -n
 
 sorting with version:
 $ git tag -l --sort=-version:refname
-more info on : https://git-scm.com/docs/git-tag
+**_more info on : https://git-scm.com/docs/git-tag_**
 ```
 How to delete tags locally and remotely?
 ```
